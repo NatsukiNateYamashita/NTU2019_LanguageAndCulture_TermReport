@@ -2,7 +2,7 @@
 
 This repository is made for term report in Language and Culture class in NTU.
 These codes are written only for experiments so they are not clean code.
-Some of parameters are needed to modify by hand in each run of programs.
+Some of valiables are needed to modify by hand in each run of programs.
 Please do not hesitate to contact to me or ask me, when you have any question.
 
 ## How to run
